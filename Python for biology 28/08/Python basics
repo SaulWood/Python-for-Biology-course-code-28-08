@@ -1,0 +1,5 @@
+#Task: Write a script that generates a random password with:
+#12 characters total
+#A mix of uppercase, lowercase, digits, and symbols
+
+print('i')
